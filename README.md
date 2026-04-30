@@ -10,8 +10,8 @@ Boolean functions.
 
 ```bash
 # Clone the repository
-git clone https://github.com//.git
-cd 
+git clone https://github.com/PatrickClerkin/Emerging-Technologies-Patrick-Clerkin.git
+cd Emerging-Technologies-Patrick-Clerkin
 
 # Install dependencies (Python 3.10+ required)
 pip install -r requirements.txt
