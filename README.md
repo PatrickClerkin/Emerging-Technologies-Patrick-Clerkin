@@ -104,6 +104,4 @@ primary sources informing the work are:
 
 ## Author
 
-Patrick — final-year BSc Computing in Software Development student at
-Atlantic Technological University. Submitted for the Emerging
-Technologies module, May 2026.
+Patrick Clerkin
